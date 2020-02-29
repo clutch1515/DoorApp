@@ -1,0 +1,44 @@
+body {
+    background-image: url(/img/whiteBricks.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-image: url('/img/card.jpg');
+    background-position: 100% 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: black;
+    text-shadow: white 0.3em 0.3em 0.3em;
+    font-family: 'Shadows Into Light';
+    font-size: xx-large;
+}
+
+.btn-sm {
+    text-align: right;
+    position: relative;
+    top: 0;
+    font-size: large;
+    
+}
+
+.navbar {
+    font-family: 'Shadows Into Light';
+    
+}
+
+.site-footer {
+    background-color: white;
+    padding: 20px 0; 
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: black;
+    
+}
+.footer,
+.push {
+  height: 50px;
+}
